@@ -11298,5 +11298,7 @@ textarea.form-control-lg {
 /*Style ajouté par css***/
 
 body{
-  background-color: deepskyblue;
+  /*background-color: deepskyblue;*/
+  background-color: #000000;
+  color: #ffffff;
 }
